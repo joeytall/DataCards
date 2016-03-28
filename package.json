@@ -1,0 +1,38 @@
+{
+  "name": "DataCard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./bin/www"
+  },
+  "engine": {
+    "node": "4.2.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "body-parser": "latest",
+    "cookie-parser": "latest",
+    "debug": "latest",
+    "express": "latest",
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^1.0.0",
+    "gulp": "^3.9.1",
+    "gulp-mocha": "^2.2.0",
+    "gulp-sass": "^2.2.0",
+    "jade": "latest",
+    "mocha": "latest",
+    "morgan": "latest",
+    "request": "latest",
+    "serve-favicon": "~2.3.0"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "font-awesome": "*",
+    "jquery": "*",
+    "browserify": "*"
+  }
+}
